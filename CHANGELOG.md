@@ -1,3 +1,7 @@
+## 1.1.1
+
+- Fixed package `main` and `files`.
+
 # 1.1.0
 
 - Improved `optimize.js` in order not to depend on asynchronous `SVGO` code.
